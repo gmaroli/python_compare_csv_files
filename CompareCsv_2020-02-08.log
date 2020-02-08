@@ -1,0 +1,10 @@
+2020-02-08 14:54:55,591 - Compare two csv files - INFO - **************************************************START**************************************************
+2020-02-08 14:54:55,591 - Compare two csv files - INFO - Log files will be written to: E:\GitHub\gmaroli\CompareCSV\CompareCsv_2020-02-08.log
+2020-02-08 14:55:00,447 - Compare two csv files - INFO - Source File Path: test1.csv
+2020-02-08 14:55:03,373 - Compare two csv files - INFO - Destination File Path: test2.csv
+2020-02-08 14:55:07,445 - Compare two csv files - INFO - Dropping single column: h1 in test1.csv 
+2020-02-08 14:55:07,447 - Compare two csv files - INFO - Dropping single column: h4 in test2.csv 
+2020-02-08 14:55:07,483 - Compare two csv files - INFO - Result file is stored in the following location: E:\GitHub\gmaroli\CompareCSV\diff_sourceonly_2020-02-08.csv
+2020-02-08 14:55:07,502 - Compare two csv files - INFO - Result file is stored in the following location: E:\GitHub\gmaroli\CompareCSV\diff_destonly_2020-02-08.csv
+2020-02-08 14:55:07,516 - Compare two csv files - INFO - Result file is stored in the following location: E:\GitHub\gmaroli\CompareCSV\diff_both_2020-02-08.csv
+2020-02-08 14:55:07,516 - Compare two csv files - INFO - **************************************************END**************************************************
